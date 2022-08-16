@@ -1,0 +1,13 @@
+**/__pycache__/
+**/.pytest_cache
+**/*.json
+**/Output/
+**/Scripts
+**/*.csv
+**/*.xlsx
+**/*.txt
+**/*.pdf
+**/*.png
+**/*.qmd
+**/*.gv
+**/*.mdb
